@@ -1,0 +1,32 @@
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/bin/Debug/netstandard2.0/BajadorDeVideos.Common.deps.json
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/bin/Debug/netstandard2.0/BajadorDeVideos.Common.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/bin/Debug/netstandard2.0/BajadorDeVideos.Common.pdb
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/obj/Debug/netstandard2.0/BajadorDeVideos.Common.csproj.CoreCompileInputs.cache
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/obj/Debug/netstandard2.0/BajadorDeVideos.Common.AssemblyInfoInputs.cache
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/obj/Debug/netstandard2.0/BajadorDeVideos.Common.AssemblyInfo.cs
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/obj/Debug/netstandard2.0/BajadorDeVideos.Common.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Common/obj/Debug/netstandard2.0/BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.deps.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.AssemblyInfo.cs
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.deps.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.AssemblyInfo.cs
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.deps.json
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\bin\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.AssemblyInfo.cs
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Common\obj\Debug\netstandard2.0\BajadorDeVideos.Common.pdb

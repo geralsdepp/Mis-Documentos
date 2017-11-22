@@ -1,0 +1,56 @@
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Consola.deps.json
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Consola.runtimeconfig.json
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Consola.runtimeconfig.dev.json
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Consola.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Consola.pdb
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Common.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.PluginEjemplo.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.Common.pdb
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/bin/Debug/netcoreapp2.0/BajadorDeVideos.PluginEjemplo.pdb
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/obj/Debug/netcoreapp2.0/BajadorDeVideos.Consola.csproj.CoreCompileInputs.cache
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/obj/Debug/netcoreapp2.0/BajadorDeVideos.Consola.AssemblyInfoInputs.cache
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/obj/Debug/netcoreapp2.0/BajadorDeVideos.Consola.AssemblyInfo.cs
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/obj/Debug/netcoreapp2.0/BajadorDeVideos.Consola.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.Consola/obj/Debug/netcoreapp2.0/BajadorDeVideos.Consola.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.deps.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.runtimeconfig.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.runtimeconfig.dev.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.AssemblyInfo.cs
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.deps.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.runtimeconfig.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.runtimeconfig.dev.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.AssemblyInfo.cs
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.deps.json
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.runtimeconfig.json
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.runtimeconfig.dev.json
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Consola.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\bin\Debug\netcoreapp2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.AssemblyInfo.cs
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.Consola\obj\Debug\netcoreapp2.0\BajadorDeVideos.Consola.pdb

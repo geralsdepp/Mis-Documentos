@@ -1,0 +1,40 @@
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/bin/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.deps.json
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/bin/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/bin/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.pdb
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/bin/Debug/netstandard2.0/BajadorDeVideos.Common.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/bin/Debug/netstandard2.0/BajadorDeVideos.Common.pdb
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/obj/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.csproj.CoreCompileInputs.cache
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/obj/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.AssemblyInfoInputs.cache
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/obj/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.AssemblyInfo.cs
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/obj/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.dll
+/Users/pablozaiden/Downloads/BajadorDeVideos/BajadorDeVideos.PluginEjemplo/obj/Debug/netstandard2.0/BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.deps.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.AssemblyInfo.cs
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.deps.json
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.AssemblyInfo.cs
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\Downloads\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.deps.json
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.Common.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\bin\Debug\netstandard2.0\BajadorDeVideos.Common.pdb
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.csproj.CoreCompileInputs.cache
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.AssemblyInfoInputs.cache
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.AssemblyInfo.cs
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.dll
+c:\Users\geraldinem_lu\OneDrive - Lagash Systems S.A\BajadorDeVideos\BajadorDeVideos.PluginEjemplo\obj\Debug\netstandard2.0\BajadorDeVideos.PluginEjemplo.pdb
