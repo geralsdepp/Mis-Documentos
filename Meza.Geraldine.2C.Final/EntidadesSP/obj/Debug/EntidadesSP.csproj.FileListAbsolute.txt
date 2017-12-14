@@ -1,0 +1,2 @@
+C:\Users\geraldinem_lu\Documents\Meza.Geraldine.2C.Final\EntidadesSP\obj\Debug\EntidadesSP.csprojResolveAssemblyReference.cache
+C:\Users\geraldinem_lu\Documents\Meza.Geraldine.2C.Final\EntidadesSP\obj\Debug\EntidadesSP.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\geraldinem_lu\Documents\Meza.Geraldine.2C.Final\Meza.Geraldine.2C.Final\obj\Debug\Meza.Geraldine.2C.Final.csprojResolveAssemblyReference.cache
+C:\Users\geraldinem_lu\Documents\Meza.Geraldine.2C.Final\Meza.Geraldine.2C.Final\obj\Debug\Meza.Geraldine._2C.Final.Properties.Resources.resources
+C:\Users\geraldinem_lu\Documents\Meza.Geraldine.2C.Final\Meza.Geraldine.2C.Final\obj\Debug\Meza.Geraldine.2C.Final.csproj.GenerateResource.Cache
+C:\Users\geraldinem_lu\Documents\Meza.Geraldine.2C.Final\Meza.Geraldine.2C.Final\obj\Debug\Meza.Geraldine.2C.Final.csproj.CoreCompileInputs.cache
