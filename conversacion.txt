@@ -1,0 +1,152 @@
+Geraldine Meza: 
+hola amor
+Alexis Chas: 
+eesssaa
+Geraldine Meza: 
+jajaja
+xD
+Alexis Chas: 
+ahora si je
+Geraldine Meza: 
+siii 
+Geraldine Meza: 
+me voy a la facu amoor
+besitoo!!
+Alexis Chas: 
+bueno amor
+beso, suerte!!
+[?16/?11/?2017 17:07] Geraldine Meza: 
+te amo cu
+gracias!!
+[?16/?11/?2017 17:07] Alexis Chas: 
+yo tambien reina
+[?16/?11/?2017 17:08] Geraldine Meza: 
+mozo
+amooorr vos tenes llaves de tu casa??
+porque hoy cerre yo. vos no encontrabas las tuyas
+[?16/?11/?2017 17:08] Alexis Chas: 
+la puta madreeee
+la puta madreeeeee
+la puta maaaaaadreeeeeeeeeee
+[?16/?11/?2017 17:09] Geraldine Meza: 
+fijate si estan en tu mochilaa
+queres acercarte a la facu ?
+[?16/?11/?2017 17:09] Alexis Chas: 
+me quiero pegar un tiro en las bolas...
+[?16/?11/?2017 17:09] Geraldine Meza: 
+seguimos por wathsap si queres
+jeje
+[?16/?11/?2017 17:09] Alexis Chas: 
+me quiero matar
+la puta madre
+[?16/?11/?2017 17:10] Geraldine Meza: 
+:D
+jajaja
+seguimos por wasap
+[?17/?11/?2017 12:06] Alexis Chas: 
+Mi empresaria favoritaaaa
+[?17/?11/?2017 12:11] Geraldine Meza: 
+:9
+:)
+no doy mas amoor
+[?17/?11/?2017 12:11] Alexis Chas: 
+ya terminas bb!!
+dale que se viene finde laaaaargoooo
+[?17/?11/?2017 12:18] Geraldine Meza: 
+siiiiiiiiiiiiiiiiiiiiii
+[?20/?11/?2017 12:38] Geraldine Meza: 
+https://www.commoncraft.com/videolist 
+[?20/?11/?2017 12:46] Alexis Chas: 
+https://stackoverflow.com/questions/15003409/htmlagilitypack-and-selecting-nodes-and-subnodes 
+[?20/?11/?2017 20:27] Geraldine Meza: 
+https://fast.wistia.net/embed/iframe/nx5m8mje3b 
+[?20/?11/?2017 20:41] Alexis Chas: 
+https://stackoverflow.com/questions/18156795/parsing-html-to-get-script-variable-value 
+[?21/?11/?2017 12:21] Geraldine Meza: 
+holaa 
+el archivo que tengo qe descargar es el .bin que esta en el sript
+script
+Geraldine Meza: 
+commoncraft.com/videolist 
+https://www.commoncraft.com/videolist 
+Geraldine Meza: 
+no encuentroooo como recorrerloooooooooooooo
+Alexis Chas: 
+ppasame el link q paso tu compañero
+Geraldine Meza: 
+cual??
+el de json?
+Alexis Chas: 
+viste que mando, algo de ajax?
+Geraldine Meza: 
+o.O
+Alexis Chas: 
+ustedes tienen un foro puede ser?
+o algo asi
+Geraldine Meza: 
+sii el slack
+Alexis Chas: 
+bueno
+ahi un pibe les paso alog
+me mostraste ayer
+Geraldine Meza: 
+aahh no un pibe el profee
+Alexis Chas: 
+ese ese
+pasame lo que te paso y el link
+[?21/?11/?2017 16:59] Geraldine Meza: 
+https://www.nuget.org/packages/Newtonsoft.Json/ 
+[?21/?11/?2017 17:01] Geraldine Meza: 
+Marcos Torres [11:47] 
+https://www.nuget.org/packages/Newtonsoft.Json/
+nuget.org
+Newtonsoft.Json 10.0.3
+Json.NET is a popular high-performance JSON framework for .NET
+ 
+[11:47] 
+`dotnet add package Newtonsoft.Json --version 10.0.3` (editado)
+
+
+[11:48] 
+`dynamic paylod = JObject.Parse(json);` 
+era para descargar la libreria de json
+estoy tratando de aprender a usarla pero no me sale
+[?21/?11/?2017 17:04] Alexis Chas: 
+que estresante che,,.. no encuentro como
+[?21/?11/?2017 17:05] Geraldine Meza: 
+maall 
+ahi encontre una pag te la paso
+https://www.newtonsoft.com/json/help/html/Introduction.htm 
+[?21/?11/?2017 17:14] Alexis Chas: 
+amor
+viste que vos en el html tenes un script que ejecuta un json
+no?
+amooooor
+[?21/?11/?2017 17:16] Alexis Chas: 
+en este link
+https://www.newtonsoft.com/json/help/html/M_Newtonsoft_Json_Linq_JObject_Parse.htm 
+te dice como obtener un json
+[?21/?11/?2017 17:17] Alexis Chas: 
+trata de desprender ese json
+y procesarlo como te dice ahi
+o, de ejecutar el metodo de javascript. Hay una forma de ejecutar un metodo js desde C#
+ayer lo vi
+[?21/?11/?2017 17:20] Geraldine Meza: 
+okeyyy amoor
+te amor
+te amo*
+estaba en el baño jeje
+[?21/?11/?2017 17:20] Alexis Chas: 
+juga con eso
+[?22/?11/?2017 10:12] Geraldine Meza: 
+moozoo te amo
+[?22/?11/?2017 10:13] Alexis Chas: 
+reina
+yo tambien
+ni escuche cuando te fuiste
+[?22/?11/?2017 10:13] Geraldine Meza: 
+dormias como un bb no te quise ni dar un beso para no despertarte
+[?22/?11/?2017 10:14] Alexis Chas: 
+jeje hermosa
+[?22/?11/?2017 10:22] Alexis Chas: 
+que onda ahi
