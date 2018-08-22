@@ -1,0 +1,5 @@
+public string ReplaceBySymbol(string cadena)
+        {
+            string str = Encoding.UTF8.GetString(Encoding.GetEncoding(1252).GetBytes(cadena));
+            return str;
+        }
